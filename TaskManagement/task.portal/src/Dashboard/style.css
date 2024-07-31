@@ -1,0 +1,31 @@
+/* styles.css */
+#wrapper {
+    display: flex;
+    align-items: stretch;
+  }
+  
+  #sidebar-wrapper {
+    min-width: 250px;
+    max-width: 250px;
+    margin-left: -250px;
+    transition: margin 0.25s ease-out;
+  }
+  
+  #wrapper.toggled #sidebar-wrapper {
+    margin-left: 0;
+  }
+  
+  #page-content-wrapper {
+    width: 100%;
+  }
+  
+  @media (min-width: 768px) {
+    #sidebar-wrapper {
+      margin-left: 0;
+    }
+  }
+
+  .btn {
+    margin-right: 10px; /* Adds 10px space to the right of each button */
+  }
+  

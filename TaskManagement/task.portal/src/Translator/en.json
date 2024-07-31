@@ -1,0 +1,22 @@
+{
+    "task.management.form.modal.update": "Update",
+    "task.management.form.modal.add": "Add",
+    "task.management.form.modal.cancelText":"cancel",
+    "task.management.form.modal.title.update": "Update Task",
+    "task.management.form.modal.title.add": "Add New Task",
+    "task.management.form.label.title": "Title",
+    
+    "task.management.form.label.popover.title":"Add task",
+    "task.management.modal.validation.title":"Task required",
+    "task.management.form.label.description": "Description",
+    "task.management.form.label.popover.description": "Description",
+    "task.management.form.label.due.date": "Due Date",
+    
+    "task.management.form.label.popover.due.date":"Due date",
+    "task.management.modal.validation.due.date":"Due date required",
+
+    "task.management.form.modal.priority": "Priority",
+    
+    "task.management.form.label.popover.priority":"Select priority",
+    "task.management.modal.validation.priority":"Priority required"
+}

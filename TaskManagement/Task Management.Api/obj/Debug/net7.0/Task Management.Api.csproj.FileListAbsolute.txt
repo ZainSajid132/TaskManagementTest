@@ -1,0 +1,33 @@
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\appsettings.json
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\Task Management.Api.exe
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\Task Management.Api.deps.json
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\Task Management.Api.runtimeconfig.json
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\Task Management.Api.dll
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\Task Management.Api.pdb
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Zain\source\repos\Task Management.Api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.csproj.AssemblyReference.cache
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.AssemblyInfoInputs.cache
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.AssemblyInfo.cs
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.csproj.CoreCompileInputs.cache
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\staticwebassets\msbuild.Task Management.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\staticwebassets\msbuild.build.Task Management.Api.props
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Task Management.Api.props
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Task Management.Api.props
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\scopedcss\bundle\Task Management.Api.styles.css
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.csproj.CopyComplete
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.dll
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\refint\Task Management.Api.dll
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.pdb
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\Task Management.Api.genruntimeconfig.cache
+C:\Users\Zain\source\repos\Task Management.Api\obj\Debug\net7.0\ref\Task Management.Api.dll

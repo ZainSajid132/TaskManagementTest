@@ -1,0 +1,14 @@
+.taskManagement_addModalWrapper {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+  .taskManagement_addModalFormItem {
+    width: 48%;
+  }
+  .taskManagement_addModalFormItem label span{
+    color: #000 !important;
+  }
+  .taskManagement_addModalFormItem label span span{
+    color: #FF0000 !important;
+  }
